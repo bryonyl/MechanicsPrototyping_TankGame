@@ -1,5 +1,3 @@
-Tank Game is a top-down puzzle game made with Unreal Engine 5 and Blueprints.
-
 You play as a tank turned sentient, and your goal is to escape the facility you are trapped within. You must complete a series of puzzles to unlock keycards in order to rescue your tank friends and then escape.
 
 This project was created during my 1st year of university, for the Mechanics Prototyping module. The brief for this module was to create a top-down game in Unreal Engine 5 using Blueprints, focusing on rapidly prototyping a variety of mechanics. I was supplied with a slim framework to build upon for this project, which includes the tank model, the top-down camera, player health, checkpoints and various models to kitbash together.
